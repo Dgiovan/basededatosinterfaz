@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291478172434",
+    "firebase_url": "https://ejemplobasededatosin.firebaseio.com",
+    "project_id": "ejemplobasededatosin",
+    "storage_bucket": "ejemplobasededatosin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291478172434:android:420ca202a13588f8e6b9cb",
+        "android_client_info": {
+          "package_name": "com.gio.bdexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291478172434-2cg91e63lj37qv71i0comgptfoqd20fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gio.bdexample",
+            "certificate_hash": "264624c75d0a87a46776fb413d7f16c8f057d47b"
+          }
+        },
+        {
+          "client_id": "291478172434-2gnnsobr35j1gsg6tnko9sihgdi4or3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBurvnPNzJCGyC9P1AcBxuD96yQsm2v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291478172434-2gnnsobr35j1gsg6tnko9sihgdi4or3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
